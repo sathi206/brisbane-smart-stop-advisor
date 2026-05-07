@@ -1,0 +1,5 @@
+model.pkl
+zone_avg.pkl
+raw/parking-occupancy-forecasting-2023-2024.csv
+.DS_Store
+__pycache__/
